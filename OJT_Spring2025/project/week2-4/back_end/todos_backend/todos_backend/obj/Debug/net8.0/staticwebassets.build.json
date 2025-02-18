@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ucG8TOv0PsIKG42TO1qEfK9mcNv0+lZeW2WBppnfQk0=",
+  "Source": "todos_backend",
+  "BasePath": "_content/todos_backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
